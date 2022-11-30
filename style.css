@@ -77,3 +77,13 @@ table{
     background-color: white;
 }
 
+/*footer*/
+
+footer img{
+    display: block;
+}
+
+.grey{
+    color: lightsteelblue;
+}
+
