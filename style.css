@@ -8,7 +8,7 @@
 
 .container{
     width: 1200px;
-    margin: auto;
+    margin: 0 auto;
 }
 
 /* header*/
@@ -51,3 +51,29 @@ time{
 cite{
     display: block;
 }
+
+/*main*/
+
+ul{
+    list-style-position: inside;
+}
+
+.tablehead{
+    color: white;
+    background-color: #4EA0FF;
+}
+
+.tablebody{
+    padding: 20px;
+    background-color: paleturquoise;
+}
+
+table{
+  border-collapse: collapse;  
+  text-align: left;
+}
+
+.trwhite{
+    background-color: white;
+}
+
