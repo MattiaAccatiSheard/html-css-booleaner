@@ -8,7 +8,7 @@
 
 /* header*/
 
-header{
+.main-header{
     background-image: url("pattern.png");
     background-size: 280px;
     display: block;
@@ -16,15 +16,11 @@ header{
     width: 100%;
     text-align: left;
     background-color: #4EA0FF;
-    padding-top: 10px;
+    padding-top: 25px;
     padding-left: 10px;
-    color: azure;
 }
 
-.the{
-    padding-left: 8px;
-}
-
-h1{
-    display: block;
+.logo{
+    height: 50px;
+    vertical-align: bottom;    
 }
